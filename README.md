@@ -9,4 +9,4 @@ Example: `blossom.insertDocument("extensions", {
 
 Overwrite Data:
 Example: `home.data.name = "hey!"
-blossom.overwriteData(home.id, home.data)`
+blossom.overwriteData("homes", home)`
